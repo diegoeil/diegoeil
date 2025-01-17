@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm Software Engineer from London
+- I'm a Software Engineer from London
 - I speak English / Portuguese
 - I work at Eurostar
 - 💻 🛠️ 💂 🚄 💙 🇬🇧 🇧🇷 🤓
